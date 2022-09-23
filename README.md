@@ -2,9 +2,7 @@
 
 This is a fake food app in which we practice writing react
 
-## Available Scripts
-
-In the project directory, you can run:
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/91630948/192029756-33987477-a107-4c92-848d-c59410f70581.png">
 
 ### `npm start`
 
